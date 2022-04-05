@@ -1,0 +1,8 @@
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\bin\Debug\ComboRecycler.exe.config
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\bin\Debug\ComboRecycler.exe
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\bin\Debug\ComboRecycler.pdb
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\obj\Debug\ComboRecycler.csproj.AssemblyReference.cache
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\obj\Debug\ComboRecycler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\obj\Debug\ComboRecycler.csproj.CoreCompileInputs.cache
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\obj\Debug\ComboRecycler.exe
+C:\Users\Ronin\source\repos\ComboRecycler\ComboRecycler\obj\Debug\ComboRecycler.pdb
